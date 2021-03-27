@@ -9,4 +9,4 @@ text += characters_list.charAt(Math.floor(Math.random() * characters_list.length
 } return text;
 }
 
-console.log(createId(6));  //izveido Id no 6 nejauši izvēlētiem burtiem no dotās virknes
+console.log(createId(6));  //izveido Id no 6 nejauši izvēlētiem burtiem, cipariem no dotās virknes
